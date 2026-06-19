@@ -1,6 +1,18 @@
-# initial
-- Moto G84 5G (bangkk)
-
+# Moto G84 5G - bangkk
+- Maintainer: ZedissP
+- Build Type: GMS full
+- Tree: LineageOS
+# Common
+- sm6375-common: Set doze state to false
+- sm6375-common: Switch file-system partitions ext4 to EROFS
+- sm6375-common: Include DolbyAtmos Lunaris
+# Device
+- bangkk: props: Add ScrollOptimizer
+- bangkk: Setup Axion Updater Overlay
+- bangkk: Include AxionFX
+- bangkk: Include Google Telecomm
+- bangkk: Include Partner Setup
+  
 ---
 
 AxionOS Changelog
